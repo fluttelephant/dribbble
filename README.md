@@ -8,13 +8,13 @@ Some Dribbble UIs make with Flutter by our community (Dart & Flutter).
 
 ## :computer: Projects
 
-### :construction: Tour agency app
+### :construction: Tour agency app (in progress...)
 
 ![alt text](https://cdn.dribbble.com/users/1633085/screenshots/5855517/tour_agency_app_4x.jpg?compress=1&resize=1200x900 "Screens shot")
 
 package : [click here]()
 
-### :construction: Task management app
+### :construction: Task management app (in progress...)
 
 ![alt text](https://cdn.dribbble.com/users/1098627/screenshots/12162589/media/80cb048feaa55c14ec7fbbb5e35de29f.jpg?compress=1&resize=1200x900 "Screens shot")
 
