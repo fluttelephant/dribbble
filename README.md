@@ -1,13 +1,12 @@
-# Dribbble app clonning by Dart communauty
+# Dribbble UI
 
-Flutter futé communauté
+Some Dribbble UIs make with Flutter by our community (Dart & Flutter).
 
 ## DISCORD
 
-- [Join communauty](https://discord.gg/djAshMS)
+- [Join here](https://discord.gg/djAshMS)
 
 ## Project Structure
-
 
 ### Tour agency app
 
