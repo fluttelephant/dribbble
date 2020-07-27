@@ -3,6 +3,7 @@ import 'package:firstappflutter/tour_agency_app/TourAgencyApp.dart';
 import 'package:flutter/material.dart';
 
 import 'tour_agency_app/TourAgencyApp.dart';
+import 'ultrafit/App.dart';
 
 Future<void> main() async {
   runApp(HomeActivity());
@@ -26,6 +27,7 @@ class _MainPageState extends State<MainPage> {
   List<DataApp> apps = [
     DataApp(title: "Tour Agency App", page: TourAgencyApp()),
     DataApp(title: "Task App", page: TaskApp()),
+    DataApp(title: "UltraFit", page: UltraFitApp()),
   ];
 
   @override
@@ -44,7 +46,10 @@ class _MainPageState extends State<MainPage> {
             ),
             child: Padding(
               padding: const EdgeInsets.all(8.0),
-              child: Text(app.title, style: TextStyle(fontSize: 20),),
+              child: Text(
+                app.title,
+                style: TextStyle(fontSize: 20),
+              ),
             ),
           );
         },
