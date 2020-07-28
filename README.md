@@ -16,9 +16,9 @@ package : [click here]()
 
 ### Task management app :white_check_mark:
 
-![alt text](https://cdn.dribbble.com/users/1098627/screenshots/12162589/media/80cb048feaa55c14ec7fbbb5e35de29f.jpg?compress=1&resize=1200x900 "Screens shot")
-
 [See the code](https://github.com/agnamc/dribbble/tree/master/lib/task_app)
+
+![alt text](https://cdn.dribbble.com/users/1098627/screenshots/12162589/media/80cb048feaa55c14ec7fbbb5e35de29f.jpg?compress=1&resize=1200x900 "Screens shot")
 
 ## Contributors
 
