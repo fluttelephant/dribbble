@@ -16,9 +16,19 @@ package : [click here]()
 
 ### Task management app :white_check_mark:
 
-[See the code](https://github.com/agnamc/dribbble/tree/master/lib/task_app)
+* Design link [here](https://dribbble.com/shots/12162589-Schedo-Task-Manager-App)
 
 ![alt text](https://cdn.dribbble.com/users/1098627/screenshots/12162589/media/80cb048feaa55c14ec7fbbb5e35de29f.jpg?compress=1&resize=1200x900 "Screens shot")
+
+* App screenshots
+
+<p>
+  <img src="screenshots/taskapp/screen1.png" width="300" height="666" />
+  <img src="screenshots/taskapp/screen2.png" width="300" height="666" />
+  <img src="screenshots/taskapp/screen3.png" width="300" height="666" />
+</p>
+
+* Code link [here](https://github.com/agnamc/dribbble/tree/master/lib/task_app)
 
 ## Contributors
 
