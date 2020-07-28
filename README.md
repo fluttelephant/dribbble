@@ -23,9 +23,9 @@ package : [click here]()
 * App screenshots
 
 <p>
-  <img src="screenshots/taskapp/screen1.png" width="300" height="666" />
-  <img src="screenshots/taskapp/screen2.png" width="300" height="666" />
-  <img src="screenshots/taskapp/screen3.png" width="300" height="666" />
+  <img src="screenshots/taskapp/screen1.png" width="250" height="555" />
+  <img src="screenshots/taskapp/screen2.png" width="250" height="555" />
+  <img src="screenshots/taskapp/screen3.png" width="250" height="555" />
 </p>
 
 * Code link [here](https://github.com/agnamc/dribbble/tree/master/lib/task_app)
