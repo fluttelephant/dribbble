@@ -1,6 +1,6 @@
 # :rocket: Dribbble UI Implementations
 
-Some Dribbble UIs make with Flutter by our community (Dart & Flutter).
+Some Dribbble UIs make with Flutter by our french community (Dart & Flutter).
 
 ## :wave: Discord Group
 
@@ -14,9 +14,11 @@ Some Dribbble UIs make with Flutter by our community (Dart & Flutter).
 
 package : [click here]()
 
-### :construction: Task management app (in progress...)
+### Task management app :white_check_mark:
 
 ![alt text](https://cdn.dribbble.com/users/1098627/screenshots/12162589/media/80cb048feaa55c14ec7fbbb5e35de29f.jpg?compress=1&resize=1200x900 "Screens shot")
+
+[See the code](https://github.com/agnamc/dribbble/tree/master/lib/task_app)
 
 ## Contributors
 
