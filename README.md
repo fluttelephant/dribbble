@@ -10,9 +10,13 @@ Some Dribbble UIs make with Flutter by our french community (Dart & Flutter).
 
 ### :construction: Tour agency app (in progress...)
 
+* Design link [here](https://dribbble.com/shots/5855517-Tour-Agency-App)
+
 ![alt text](https://cdn.dribbble.com/users/1633085/screenshots/5855517/tour_agency_app_4x.jpg?compress=1&resize=1200x900 "Screens shot")
 
-package : [click here]()
+* App screenshots
+
+* Code link [here]()
 
 ### Task management app :white_check_mark:
 
