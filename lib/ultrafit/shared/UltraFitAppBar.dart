@@ -1,3 +1,5 @@
+import 'package:firstappflutter/ultrafit/activities/preferences/FoodPreferencesActivity.dart';
+import 'package:firstappflutter/ultrafit/activities/preferences/PreferencesActivity.dart';
 import 'package:flutter/material.dart';
 
 class UltraFitAppBar extends StatelessWidget {
@@ -5,10 +7,12 @@ class UltraFitAppBar extends StatelessWidget {
     Key key,
     @required this.size,
     @required this.title,
+    this.showAvatar = true,
   }) : super(key: key);
 
   final Size size;
   final String title;
+  final bool showAvatar;
 
   @override
   Widget build(BuildContext context) {
@@ -35,7 +39,19 @@ class UltraFitAppBar extends StatelessWidget {
                     fontSize: 18,
                   ),
             ),
-            CircleAvatar()
+            showAvatar
+                ? InkWell(
+                    onTap: () {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(
+                          builder: (context) => PreferencesActivity(),
+                        ),
+                      );
+                    },
+                    child: CircleAvatar(),
+                  )
+                : Container()
           ],
         ),
       ),
