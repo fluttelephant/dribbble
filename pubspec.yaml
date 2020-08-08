@@ -51,6 +51,8 @@ flutter:
      - assets/taskapp/
      - assets/ultrafit/
      - assets/ultrafit/images/
+     - assets/lekes/
+     - assets/lekes/images/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

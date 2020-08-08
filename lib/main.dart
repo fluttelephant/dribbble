@@ -1,3 +1,4 @@
+import 'package:firstappflutter/lekes/App.dart';
 import 'package:firstappflutter/task_app/task_app.dart';
 import 'package:firstappflutter/tour_agency_app/TourAgencyApp.dart';
 import 'package:flutter/material.dart';
@@ -29,6 +30,7 @@ class _MainPageState extends State<MainPage> {
     DataApp(title: "Tour Agency App", page: TourAgencyApp()),
     DataApp(title: "Task App", page: TaskApp()),
     DataApp(title: "UltraFit", page: UltraFitApp()),
+    DataApp(title: "LÈKÈ APP", page: LekesApp()),
   ];
 
   @override
